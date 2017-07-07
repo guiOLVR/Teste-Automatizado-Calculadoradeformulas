@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.acer.calculadoradeformulas.Screen4Activity"
+    android:background="@drawable/bgg">
+
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="14dp"
+        android:layout_marginTop="42dp"
+        android:text="Peso (kg)"
+        android:textColor="@color/Preto"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/editPeso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/textView7"
+        android:layout_marginEnd="26dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:visibility="visible"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView7"
+        android:layout_below="@+id/editPeso"
+        android:layout_marginTop="40dp"
+        android:text="Altura (m)"
+        android:textColor="@color/Preto"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:id="@+id/editAlt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editPeso"
+        android:layout_below="@+id/editPeso"
+        android:layout_marginTop="25dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:visibility="visible"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editAlt"
+        android:layout_centerVertical="true"
+        android:text="Calcular"
+        android:onClick="clique3"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_marginBottom="96dp"
+        android:text="IMC"
+        android:textSize="20sp"
+        android:textColor="@color/Preto"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/editResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+
+        android:visibility="invisible"
+        android:layout_alignBaseline="@+id/textView9"
+        android:layout_alignBottom="@+id/textView9"
+        android:layout_alignEnd="@+id/editAlt"
+        android:textSize="20sp"
+        android:textColor="@color/Preto"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/situ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/editResult"
+        android:layout_below="@+id/editResult"
+        android:visibility="invisible"
+        android:textSize="20sp"
+        android:textColor="@color/Preto"
+        android:textStyle="bold"/>
+
+</RelativeLayout>

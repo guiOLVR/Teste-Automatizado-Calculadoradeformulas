@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_e6a82d1fdb16e22b493680fe3864c1f12b1063a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_62aafd1d10e287ef4dd8ec87b865933a46f5694d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_2c3f47a10bce55e264d87537f3acf200db5bc5cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\e5fce3ffc35d3fb2e655b00cfd57bea014171883\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\classes_f3afbef128232c6932936d41f6c73e0b04b21187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_8f1805e4c1984925799ec3ddcc1b80d44fb369ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\5ac4cf5b4bfa5aa29740eaa2a27ba18622d403e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\classes_faf0c874098addab48dc84637a1cb07e98c1c220.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_bcd42d8d9d173dc0f94b1e518bfb72a68fa689b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34f0ae715021a334a7cf725b130785e7f343d967">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bf70a5409a1c87a536aeb5615eeb942515583511\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_078cbc67c4d8baf55b078eca6d95f0247fc55546\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\8dc203851e4d384d26ebd1b4645a5fe951b14818\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\classes_8d18ea8f1efba212ff3bde32cd100d11ecce3c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_79e8bf3dd85eb84041322ac69756e18d3de42c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_73f23a3fda3bb9a644f0520cc047fada4e2b85fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\89e347a8719f286c2046568b7a03cbac253edaef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\classes_232cb64735f96f32f633dd916fc753aa50addf08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_bd8ab75726a48cf7b7943473060c880ff53e9d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Guilherme\.android\build-cache\0cdb919d01d887849a623cdbb533185ee1c1f116\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\Guilherme\Documents\workspace\Calculadoradeformulas\app\build\intermediates\pre-dexed\androidTest\debug\classes_31a450e497777affc02dfe684b4b9dd2ea2712f8.jar" />
+    </item>
+
+</items>
